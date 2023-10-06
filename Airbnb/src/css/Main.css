@@ -1,0 +1,130 @@
+.image-container{
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+}
+.one{
+    /* width: 20%;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 50px; */
+    position: absolute;
+    width: 10%;
+    height: 25%;
+    left: 78px;
+    top: 135px;
+    border-radius: 8.95px;
+    object-fit: cover;
+}
+.two{
+    position: absolute;
+    width: 13%;
+    height: 15%;
+    left: 230px;
+    top: 107px;
+    border-radius: 8.95px;
+}
+.three{
+    position: absolute;
+    width: 13%;
+    height: 15%;
+    left: 230px;
+    top: 235px;
+    border-radius: 8.95px;
+}
+.four{
+    position: absolute;
+    width: 13%;
+    height: 15%;
+    left: 425px;
+    top: 107px;
+    border-radius: 8.95px;
+}
+.five{
+    position: absolute;
+    width: 13%;
+    height: 15%;
+    left: 425px;
+    top: 235px;
+    border-radius: 8.95px;
+}
+.six{
+    position: absolute;
+    /* width: 11%; */
+    height: 15%;
+    left: 620px;
+    top: 107px;
+    border-radius: 8.95px;
+}
+.seven{
+    position: absolute;
+    /* width: 10%; */
+    height: 15%;
+    left: 620px;
+    top: 235px;
+    border-radius: 8.95px;
+}
+.eight{
+    position: absolute;
+    /* width: 11%; */
+    height: 15%;
+    left: 813px;
+    top: 107px;
+    border-radius: 8.95px;
+}
+.nine{
+
+    position: absolute;
+    /* width: 11%; */
+    height: 15%;
+    left: 813px;
+    top: 235px;
+    border-radius: 8.95px;
+}
+
+.ten{
+
+    position: absolute;
+    /* width: 11%; */
+    height: 15%;
+    left: 1005px;
+    top: 107px;
+    border-radius: 8.95px;
+}
+
+.eleven{
+
+    position: absolute;
+    /* width: 11%; */
+    height: 15%;
+    left: 1005px;
+    top: 235px;
+    border-radius: 8.95px;
+}
+
+.twelve{
+
+    position: absolute;
+    width: 10%;
+    height: 25%;
+    left: 1230px;
+    top: 135px;
+    border-radius: 8.95px;
+    object-fit: cover;
+}
+.body{
+    padding-left: 40px;
+}
+
+.header{
+    margin-top: 80px;
+    margin-bottom: -15px;
+    font-style: oblique;
+}
+.text{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(59, 56, 56);
+    margin-bottom: 35px;
+}
